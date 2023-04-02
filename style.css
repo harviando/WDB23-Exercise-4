@@ -2,12 +2,12 @@ img {
   width: 30%;
   margin: calc(10% / 6);
   transition: 0.2s;
-  box-shadow: 0px 0px 2px 1000px #22222200;
+  box-shadow: 0px 0px 0px 1000px #22222200;
 }
 
 img:hover {
   scale: 1.05;
-  box-shadow: 0px 0px 2px 1000px #2222227f;
+  box-shadow: 0px 0px 0px 1000px #2222227f;
 }
 
 body {
